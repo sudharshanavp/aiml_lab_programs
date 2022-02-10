@@ -1,7 +1,10 @@
 # AIML Lab Programs
 
 Subject Code: 18CSL76
-No of Programs: 10
+
+No of Programs: 9
+
+Credits: 2
 
 List of Programs:
 
